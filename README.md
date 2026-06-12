@@ -8,6 +8,8 @@
   </a>
 </p>
 
+Passionate Data Analyst with hands-on experience building interactive dashboards, automating reports, and translating complex data into actionable business insights. Skilled in Python, SQL, Power BI, Excel, and Looker Studio. Proven track record across business development support, financial analysis, and KPI monitoring. delivering data-driven solutions that move the needle.
+
 ---
 
 ## 👨‍💻 About Me
@@ -16,7 +18,7 @@
 - 🔭 All of my projects are available at [github.com/Yudistiraprtm](https://github.com/Yudistiraprtm)
 - 💬 Ask me about **Excel, SQL, Power BI, Python, Looker Studio, and Dashboard Design**
 - 📫 Reach me at **[yudistiraprtmm@gmail.com](mailto:yudistiraprtmm@gmail.com)**
-- 🧮 Background in **S1 Matematika** — I love turning numbers into stories
+- 🧮 Background in **Bachelor of Mathematics** — I love turning numbers into stories
 - ⚡ Fun fact: I also run my own e-commerce store
 
 ---
