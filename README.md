@@ -26,20 +26,31 @@ Passionate Data Analyst with hands-on experience building interactive dashboards
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,git,github,vscode,figma&perline=12" />
-</p>
-<p align="center">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" title="Microsoft Excel" />
+  <!-- Data & BI Tools -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Microsoft Excel" />
   &nbsp;
-  <img height="48" width="48" src="https://cdn.simpleicons.org/googlesheets/34A853" alt="Google Sheets" title="Google Sheets" />
+  <img src="https://img.icons8.com/color/48/google-sheets.png" alt="Google Sheets" title="Google Sheets" />
   &nbsp;
-  <img height="48" width="48" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" title="Power BI" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" />
   &nbsp;
-  <img height="48" width="48" src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker Studio" title="Looker Studio" />
+  <img src="https://img.icons8.com/color/48/google-logo.png" alt="Looker Studio" title="Looker Studio" />
   &nbsp;
-  <img height="48" width="48" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas" />
+  <!-- Programming -->
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" />
   &nbsp;
-  <img height="48" width="48" src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" title="NumPy" />
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL" />
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <!-- Dev Tools -->
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />
 </p>
 
 ---
