@@ -18,7 +18,7 @@ Passionate Data Analyst with hands-on experience building interactive dashboards
 - 🔭 All of my projects are available at [github.com/Yudistiraprtm](https://github.com/Yudistiraprtm)
 - 💬 Ask me about **Excel, SQL, Power BI, Python, Looker Studio, and Dashboard Design**
 - 📫 Reach me at **[yudistiraprtmm@gmail.com](mailto:yudistiraprtmm@gmail.com)**
-- 🧮 Background in **Bachelor of Mathematics** — I love turning numbers into stories
+- 🧮 Background in **Mathematics**
 - ⚡ Fun fact: I also run my own e-commerce store
 
 ---
