@@ -28,15 +28,18 @@ Passionate Data Analyst with hands-on experience building interactive dashboards
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,mysql,postgres,git,github,vscode,figma&perline=12" />
 </p>
-
-<!-- Tools not in skillicons — use flat badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" title="Microsoft Excel" />
+  &nbsp;
+  <img height="48" width="48" src="https://cdn.simpleicons.org/googlesheets/34A853" alt="Google Sheets" title="Google Sheets" />
+  &nbsp;
+  <img height="48" width="48" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" title="Power BI" />
+  &nbsp;
+  <img height="48" width="48" src="https://cdn.simpleicons.org/looker/4285F4" alt="Looker Studio" title="Looker Studio" />
+  &nbsp;
+  <img height="48" width="48" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas" />
+  &nbsp;
+  <img height="48" width="48" src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" title="NumPy" />
 </p>
 
 ---
