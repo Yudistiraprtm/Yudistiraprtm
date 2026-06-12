@@ -12,7 +12,7 @@ Passionate Data Analyst with hands-on experience building interactive dashboards
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 📊 Building Automation, AI agents & Optimized Pipelines
 - 🔭 All of my projects are available at [github.com/Yudistiraprtm](https://github.com/Yudistiraprtm)
@@ -23,7 +23,7 @@ Passionate Data Analyst with hands-on experience building interactive dashboards
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,mysql,postgres,git,github,vscode,figma&perline=12" />
@@ -41,7 +41,7 @@ Passionate Data Analyst with hands-on experience building interactive dashboards
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yudistiraprtm/" target="_blank">
